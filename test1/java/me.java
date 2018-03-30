@@ -38,9 +38,9 @@ import framework.web.InitExtServlet;
 import framework.web.InitServlet;
 
 /**
- * 预警2
+ * 预警
  * 
- * @author lisixing 2015-11-19
+ * @author lisixing 2015-11-1933
  */
 @Entity
 @Table(name = "WG_WARNING")
