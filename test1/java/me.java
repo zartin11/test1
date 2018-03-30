@@ -38,7 +38,7 @@ import framework.web.InitExtServlet;
 import framework.web.InitServlet;
 
 /**
- * 预警
+ * 预警2
  * 
  * @author lisixing 2015-11-19
  */
